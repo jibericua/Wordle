@@ -1,2 +1,4 @@
 # Wordle
-Juego Wordle, primer trabajo practico Proyectos de Producción.
+REQUISITOS:
+- Acceso a internet.
+- Acceso al archivo 'main'.
