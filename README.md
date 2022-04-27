@@ -2,7 +2,7 @@
 REQUISITOS:
 
 - Visual Studio Code con Python descargado.
-- Acceso al archivo 'main'.
+- Acceso al archivo 'wordle'.
 
 # COMO JUGAR: 
 - Descargar el .rar a través del boton 'Code'.
