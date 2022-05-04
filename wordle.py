@@ -7,19 +7,19 @@ dificultad = input("Ingresarla aqui: ")
 
 if dificultad == "1":
     palabra = "----"
-    f = open("C:\\Users\\alumno\\Desktop\\wordle\\facil.txt", "r")
+    f = open("facil.txt", "r")
     lista = f.readlines()
     f.close()
     palabraParaAdivinar = random.choice(lista)
 elif dificultad == "2":
     palabra = "-----"
-    f = open("C:\\Users\\alumno\\Desktop\\wordle\\normal.txt", "r")
+    f = open("normal.txt", "r")
     lista = f.readlines()
     f.close()
     palabraParaAdivinar = random.choice(lista)
 elif dificultad == "3":
     palabra = "-----"
-    f = open("C:\\Users\\alumno\\Desktop\\wordle\\dificil.txt", "r")
+    f = open("dificil.txt", "r")
     lista = f.readlines()
     f.close()
     palabraParaAdivinar = random.choice(lista)
